@@ -5,6 +5,9 @@ height: 451vh;
 float: left;
 width: 100%;
 margin: 0 0 50px;
+@media (max-width: 845px) {
+  height: 467vh;
+}
 `
 
 export const ContainerFv = styled.div`
@@ -14,6 +17,120 @@ align-items: space-around;
 width: 728px;
 margin-left: 23vw;
 padding-top: 7vh;
+@media (max-width: 1280px) {
+    margin-left: 21vw;
+}
+@media (max-width: 1240px) {
+  margin-left: 19.8vw;
+}
+@media (max-width: 1200px) {
+  margin-left: 19.3vw;
+}
+@media (max-width: 1170px) {
+  margin-left: 18.9vw;
+}
+@media (max-width: 1150px) {
+  margin-left: 18.1vw;
+}
+@media (max-width: 1110px) {
+  margin-left: 17.2vw;
+}
+@media (max-width: 1070px) {
+  margin-left: 16.5vw;
+}
+@media (max-width: 1050px) {
+  margin-left: 16.2vw;
+}
+@media (max-width: 1024px) {
+  margin-left: 15.2vw;
+}
+@media (max-width: 1010px) {
+  margin-left: 14.2vw;
+}
+@media (max-width: 1000px) {
+  margin-left: 13.5vw;
+}
+@media (max-width: 985px) {
+  margin-left: 13.2vw;
+}
+@media (max-width: 945px) {
+  margin-left: 11.8vw;
+}
+@media (max-width: 920px) {
+  margin-left: 10.8vw;
+}
+@media (max-width: 915px) {
+  margin-left: 9.9vw;
+}
+@media (max-width: 900px) {
+  margin-left: 8.9vw;
+}
+@media (max-width: 880px) {
+  margin-left: 8.3vw;
+}
+@media (max-width: 870px) {
+  margin-left: 7vw;
+}
+@media (max-width: 855px) {
+  margin-left: 6.9vw;
+}
+@media (max-width: 850px) {
+  margin-left: 7.1vw;
+}
+@media (max-width: 845px) {
+  margin-left: 8.6vw;
+  width: 700px;
+}
+@media (max-width: 835px) {
+  margin-left: 7.9vw;
+}
+@media (max-width: 820px) {
+  margin-left: 8.9vw;
+  width: 680px;
+}
+@media (max-width: 810px) {
+  margin-left: 8.8vw;
+}
+@media (max-width: 815px) {
+  margin-left: 8.4vw;
+}
+@media (max-width: 800px) {
+  margin-left: 7.6vw;
+}
+@media (max-width: 785px) {
+  margin-left: 6.8vw;
+}
+@media (max-width: 780px) {
+  margin-left: 5.1vw;
+}
+@media (max-width: 775px) {
+  margin-left: 6vw;
+}
+@media (max-width: 770px) {
+  margin-left: 6vw;
+}
+@media (max-width: 768px) {
+  margin-left: 5.4vw;
+}
+@media (max-width: 765px) {
+  margin-left: 5.7vw;
+}
+@media (max-width: 760px) {
+  margin-left: 6.7vw;
+  width: 660px;
+}
+@media (max-width: 755px) {
+  margin-left: 6.3vw;
+}
+@media (max-width: 425px) {
+  margin-left: 9.4vw;
+}
+@media (max-width: 375px) {
+  margin-left: 11.3vw;
+}
+@media (max-width: 320px) {
+  margin-left: 13.3vw;
+}
 `
 
 export const PostInfoFv = styled.div`
@@ -120,6 +237,81 @@ align-items: space-around;
 width: 728px;
 margin-left: 23vw;
 padding-top: 7vh;
+@media (max-width: 1280px) {
+    margin-left: 21vw;
+}
+@media (max-width: 1240px) {
+  margin-left: 19.8vw;
+}
+@media (max-width: 1200px) {
+  margin-left: 19.3vw;
+}
+@media (max-width: 1170px) {
+  margin-left: 18.9vw;
+}
+@media (max-width: 1150px) {
+  margin-left: 18.1vw;
+}
+@media (max-width: 1110px) {
+  margin-left: 17.2vw;
+}
+@media (max-width: 1070px) {
+  margin-left: 16.5vw;
+}
+@media (max-width: 1050px) {
+  margin-left: 16.2vw;
+}
+@media (max-width: 1024px) {
+  margin-left: 15.2vw;
+}
+@media (max-width: 1010px) {
+  margin-left: 14.2vw;
+}
+@media (max-width: 985px) {
+  margin-left: 13.2vw;
+}
+@media (max-width: 945px) {
+  margin-left: 11.8vw;
+}
+@media (max-width: 920px) {
+  margin-left: 10.8vw;
+}
+@media (max-width: 900px) {
+  margin-left: 9.4vw;
+}
+@media (max-width: 870px) {
+  margin-left: 8.2vw;
+}
+@media (max-width: 850px) {
+  margin-left: 7.3vw;
+}
+@media (max-width: 845px) {
+  margin-left: 8.6vw;
+  width: 700px;
+}
+@media (max-width: 835px) {
+  margin-left: 6.3vw;
+}
+@media (max-width: 820px) {
+  margin-left: 8.9vw;
+  width: 680px;
+}
+@media (max-width: 815px) {
+  margin-left: 5.3vw;
+}
+@media (max-width: 800px) {
+  margin-left: 4.4vw;
+}
+@media (max-width: 785px) {
+  margin-left: 3.8vw;
+}
+@media (max-width: 765px) {
+  margin-left: 3.3vw;
+}
+@media (max-width: 760px) {
+  margin-left: 6.7vw;
+  width: 660px;
+}
 `
 
 export const ContainerProjects = styled.div`
@@ -234,6 +426,81 @@ align-items: space-around;
 width: 728px;
 margin-left: 23vw;
 padding-top: 7vh;
+@media (max-width: 1280px) {
+  margin-left: 21vw;
+}
+@media (max-width: 1240px) {
+margin-left: 19.8vw;
+}
+@media (max-width: 1200px) {
+margin-left: 19.3vw;
+}
+@media (max-width: 1170px) {
+margin-left: 18.9vw;
+}
+@media (max-width: 1150px) {
+margin-left: 18.1vw;
+}
+@media (max-width: 1110px) {
+margin-left: 17.2vw;
+}
+@media (max-width: 1070px) {
+margin-left: 16.5vw;
+}
+@media (max-width: 1050px) {
+margin-left: 16.2vw;
+}
+@media (max-width: 1024px) {
+margin-left: 15.2vw;
+}
+@media (max-width: 1010px) {
+margin-left: 14.2vw;
+}
+@media (max-width: 985px) {
+  margin-left: 13.2vw;
+}
+@media (max-width: 945px) {
+  margin-left: 11.8vw;
+}
+@media (max-width: 920px) {
+  margin-left: 10.8vw;
+}
+@media (max-width: 900px) {
+  margin-left: 9.4vw;
+}
+@media (max-width: 870px) {
+  margin-left: 8.2vw;
+}
+@media (max-width: 850px) {
+  margin-left: 7.3vw;
+}
+@media (max-width: 845px) {
+  margin-left: 8.6vw;
+  width: 700px;
+}
+@media (max-width: 835px) {
+  margin-left: 6.3vw;
+}
+@media (max-width: 820px) {
+  margin-left: 8.9vw;
+  width: 680px;
+}
+@media (max-width: 815px) {
+  margin-left: 5.3vw;
+}
+@media (max-width: 800px) {
+  margin-left: 4.4vw;
+}
+@media (max-width: 785px) {
+  margin-left: 3.8vw;
+}
+@media (max-width: 765px) {
+  margin-left: 3.3vw;
+}
+@media (max-width: 760px) {
+  margin-left: 6.7vw;
+  width: 660px;
+}
 `
 
 export const PostInfoPopular = styled.div`

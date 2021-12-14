@@ -37,6 +37,265 @@ width: 728px;
 height: 120vh;
 margin-left: 23vw;
 padding-top: 7vh;
+@media (max-width: 1280px) {
+  margin-left: 21vw;
+}
+@media (max-width: 1240px) {
+margin-left: 19.8vw;
+}
+@media (max-width: 1200px) {
+margin-left: 19.3vw;
+}
+@media (max-width: 1170px) {
+margin-left: 18.9vw;
+}
+@media (max-width: 1150px) {
+margin-left: 18.1vw;
+}
+@media (max-width: 1110px) {
+margin-left: 17.2vw;
+}
+@media (max-width: 1070px) {
+margin-left: 16.5vw;
+}
+@media (max-width: 1050px) {
+margin-left: 16.2vw;
+}
+@media (max-width: 1024px) {
+margin-left: 15.2vw;
+}
+@media (max-width: 1010px) {
+margin-left: 14.2vw;
+}
+@media (max-width: 1000px) {
+margin-left: 13.5vw;
+}
+@media (max-width: 985px) {
+margin-left: 13.2vw;
+}
+@media (max-width: 945px) {
+margin-left: 11.8vw;
+}
+@media (max-width: 920px) {
+margin-left: 10.8vw;
+}
+@media (max-width: 915px) {
+margin-left: 9.9vw;
+}
+@media (max-width: 900px) {
+margin-left: 8.9vw;
+}
+@media (max-width: 880px) {
+margin-left: 8.3vw;
+}
+@media (max-width: 870px) {
+margin-left: 7vw;
+}
+@media (max-width: 855px) {
+margin-left: 6.9vw;
+}
+@media (max-width: 850px) {
+margin-left: 7.1vw;
+}
+@media (max-width: 845px) {
+margin-left: 8.6vw;
+width: 700px;
+}
+@media (max-width: 835px) {
+margin-left: 7.9vw;
+}
+@media (max-width: 820px) {
+margin-left: 8.9vw;
+width: 680px;
+}
+@media (max-width: 810px) {
+margin-left: 8.8vw;
+}
+@media (max-width: 815px) {
+margin-left: 8.4vw;
+}
+@media (max-width: 800px) {
+margin-left: 7.6vw;
+}
+@media (max-width: 785px) {
+margin-left: 6.8vw;
+}
+@media (max-width: 780px) {
+margin-left: 5.1vw;
+}
+@media (max-width: 775px) {
+margin-left: 6vw;
+}
+@media (max-width: 770px) {
+margin-left: 6vw;
+}
+@media (max-width: 768px) {
+margin-left: 5.4vw;
+}
+@media (max-width: 765px) {
+margin-left: 5.7vw;
+}
+@media (max-width: 760px) {
+margin-left: 6.7vw;
+width: 660px;
+}
+@media (max-width: 755px) {
+margin-left: 6.3vw;
+}
+@media (max-width: 750px) {
+margin-left: 7.2vw;
+}
+@media (max-width: 740px) {
+margin-left: 6.8vw;
+}
+@media (max-width: 710px) {
+margin-left: 7.3vw;
+}
+@media (max-width: 695px) {
+margin-left: 7vw;
+}
+@media (max-width: 685px) {
+margin-left: 7.5vw;
+}
+@media (max-width: 680px) {
+margin-left: 7.7vw;
+}
+@media (max-width: 675px) {
+margin-left: 7.4vw;
+}
+@media (max-width: 670px) {
+margin-left: 7vw;
+}
+@media (max-width: 665px) {
+margin-left: 7.5vw;
+}
+@media (max-width: 655px) {
+margin-left: 7vw;
+}
+@media (max-width: 640px) {
+margin-left: 6.7vw;
+}
+@media (max-width: 630px) {
+margin-left: 7.2vw;
+}
+@media (max-width: 610px) {
+margin-left: 6.8vw;
+}
+@media (max-width: 605px) {
+margin-left: 7.6vw;
+}
+@media (max-width: 590px) {
+margin-left: 8.1vw;
+}
+@media (max-width: 580px) {
+margin-left: 7.4vw;
+}
+@media (max-width: 580px) {
+margin-left: 7vw;
+}
+@media (max-width: 565px) {
+margin-left: 7.6vw;
+}
+@media (max-width: 560px) {
+margin-left: 7.2vw;
+}
+@media (max-width: 555px) {
+margin-left: 8vw;
+}
+@media (max-width: 540px) {
+margin-left: 7.2vw;
+}
+@media (max-width: 525px) {
+margin-left: 8.3vw;
+}
+@media (max-width: 515px) {
+margin-left: 7.1vw;
+}
+@media (max-width: 505px) {
+margin-left: 8.5vw;
+}
+@media (max-width: 490px) {
+margin-left: 7.3vw;
+}
+@media (max-width: 485px) {
+margin-left: 7.9vw;
+}
+@media (max-width: 480px) {
+margin-left: 8.8vw;
+}
+@media (max-width: 455px) {
+margin-left: 9.3vw;
+}
+@media (max-width: 440px) {
+margin-left: 8.5vw;
+}
+@media (max-width: 435px) {
+margin-left: 8.2vw;
+}
+@media (max-width: 430px) {
+margin-left: 9.6vw;
+margin-top: 3vh;
+margin-bottom: 1vh;
+}
+@media (max-width: 427px) {
+margin-left: 10.2vw;
+margin-top: 3vh;
+margin-bottom: 2vh;
+}
+@media (max-width: 426px) {
+margin-left: 10.2vw;
+margin-top: 3vh;
+margin-bottom: 3vh;
+}
+@media (max-width: 425px) {
+margin-left: 11.4vw;
+margin-top: 3vh;
+margin-bottom: 4vh;
+}
+@media (max-width: 410px) {
+margin-left: 9.4vw;
+margin-top: 9vh;
+}
+@media (max-width: 395px) {
+margin-left: 11.3vw;
+margin-top: 10vh;
+margin-bottom: 10vh;
+}
+@media (max-width: 380px) {
+margin-left: 11.3vw;
+margin-top: 12vh;
+margin-bottom: 13vh;
+}
+@media (max-width: 375px) {
+margin-left: 11.3vw;
+margin-top: 13vh;
+margin-bottom: 15vh;
+}
+@media (max-width: 365px) {
+margin-left: 15.2vw;
+margin-top: 21vh;
+margin-bottom: 20vh;
+}
+@media (max-width: 345px) {
+margin-left: 12.9vw;
+margin-top: 24vh;
+margin-bottom: 23vh;
+}
+@media (max-width: 335px) {
+margin-left: 12.1vw;
+margin-top: 26vh;
+margin-bottom: 26vh;
+}
+@media (max-width: 325px) {
+margin-left: 12.3vw;
+margin-top: 28vh;
+margin-bottom: 29vh;
+}
+@media (max-width: 320px) {
+margin-left: 13.3vw;
+margin-top: 32vh;
+margin-bottom: 32vh;
+}
 `
 
 export const PostInfoFv = styled.div`

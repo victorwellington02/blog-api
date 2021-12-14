@@ -71,27 +71,27 @@ const {btnlogo, btnhome, btnabout, btnprojects, btncontacts, titlecontact, title
         </R.ContainerHeader>
         <S.ContainerContact>
             <S.ContainerTitle>
-                <h1>{titlecontact}</h1>
+                <S.TitS.SubTitle>{titlecontact}</S.TitS.SubTitle>
             </S.ContainerTitle>
             <S.ContainerSocial>
             <S.ContainerInfos>
-              <h2>{titleinsta}</h2>
+              <S.SubTitle>{titleinsta}</S.SubTitle>
               <S.ParagraphInfo href="https://www.instagram.com/victorwellington29_/">{subtitleinsta}</S.ParagraphInfo>
               </S.ContainerInfos>
               <S.ContainerInfos>
-              <h2>{titlegit}</h2>
+              <S.SubTitle>{titlegit}</S.SubTitle>
               <S.ParagraphInfo href="https://github.com/victorwellington02">{subtitlegit}</S.ParagraphInfo>
               </S.ContainerInfos>
               <S.ContainerInfos>
-              <h2>{titlecode}</h2>
+              <S.SubTitle>{titlecode}</S.SubTitle>
               <S.ParagraphInfo href="https://codesandbox.io/u/victorwellington02">{subtitlecode}</S.ParagraphInfo>
               </S.ContainerInfos>
               <S.ContainerInfos>
-              <h2>{titlewhats}</h2>
+              <S.SubTitle>{titlewhats}</S.SubTitle>
               <S.ParagraphInfo href="">{subtitlewhats}</S.ParagraphInfo>
               </S.ContainerInfos>
               <S.ContainerInfos>
-              <h2>{titlelinke}</h2>
+              <S.SubTitle>{titlelinke}</S.SubTitle>
               <S.ParagraphInfo href="https://www.linkedin.com/in/wellingtonvictor/">{subtitlelinke}</S.ParagraphInfo>
               </S.ContainerInfos>
             </S.ContainerSocial>

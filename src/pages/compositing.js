@@ -62,7 +62,7 @@ const {btnlogo, btnhome, btnabout, btnprojects, btncontacts, infocompo, titlecom
         </R.ContainerLogo>
         <R.ContainerButtons>
         <S.Buttons><Item to="/">{btnhome}</Item></S.Buttons>
-        <S.Buttons><Item to="/about">[btnabout]</Item></S.Buttons>
+        <S.Buttons><Item to="/about">{btnabout}</Item></S.Buttons>
         <S.Buttons><Item to="/project">{btnprojects}</Item></S.Buttons>
         <S.Buttons><Item to="/contact">{btncontacts}</Item></S.Buttons>
         </R.ContainerButtons>
