@@ -71,7 +71,7 @@ const {btnlogo, btnhome, btnabout, btnprojects, btncontacts, titlecontact, title
         </R.ContainerHeader>
         <S.ContainerContact>
             <S.ContainerTitle>
-                <S.TitS.SubTitle>{titlecontact}</S.TitS.SubTitle>
+                <S.Title>{titlecontact}</S.Title>
             </S.ContainerTitle>
             <S.ContainerSocial>
             <S.ContainerInfos>
